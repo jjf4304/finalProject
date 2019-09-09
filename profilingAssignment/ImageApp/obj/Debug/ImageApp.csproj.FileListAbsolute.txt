@@ -1,0 +1,10 @@
+F:\RIT IGME 206\igme206-master\ImageApp\bin\Debug\ImageApp.exe.config
+F:\RIT IGME 206\igme206-master\ImageApp\bin\Debug\ImageApp.exe
+F:\RIT IGME 206\igme206-master\ImageApp\bin\Debug\ImageApp.pdb
+F:\RIT IGME 206\igme206-master\ImageApp\obj\Debug\ImageApp.csprojAssemblyReference.cache
+F:\RIT IGME 206\igme206-master\ImageApp\obj\Debug\ImageApp.Form1.resources
+F:\RIT IGME 206\igme206-master\ImageApp\obj\Debug\ImageApp.Properties.Resources.resources
+F:\RIT IGME 206\igme206-master\ImageApp\obj\Debug\ImageApp.csproj.GenerateResource.cache
+F:\RIT IGME 206\igme206-master\ImageApp\obj\Debug\ImageApp.csproj.CoreCompileInputs.cache
+F:\RIT IGME 206\igme206-master\ImageApp\obj\Debug\ImageApp.exe
+F:\RIT IGME 206\igme206-master\ImageApp\obj\Debug\ImageApp.pdb
